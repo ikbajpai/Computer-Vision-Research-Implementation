@@ -34,7 +34,7 @@ By implementing these papers, this repository covers the three core pillars of C
 
 ### 3. YOLOv7 (Object Detection)
 * **Paper:** *YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors* [cite: 197, 198]
-* **Key Learnings:** Advanced architecture design including Extended-ELAN (E-ELAN) [cite: 326][cite_start], planned re-parameterized convolutions [cite: 388, 418][cite_start], and dynamic label assignment strategies (coarse-to-fine lead guided assigner)[cite: 248].
+* **Key Learnings:** Advanced architecture design including Extended-ELAN (E-ELAN) [cite: 326], planned re-parameterized convolutions [cite: 388, 418], and dynamic label assignment strategies (coarse-to-fine lead guided assigner)[cite: 248].
 * **YOLOv7:** [Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://arxiv.org/abs/2207.02696) (Wang et al., 2022) [cite: 196]
 * **Status:** `Planned`
 
