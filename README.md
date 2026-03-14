@@ -20,7 +20,7 @@ By implementing these papers, this repository covers the three core pillars of C
 ### 1. VGG-19 (Classification)
 * [cite_start]**Paper:** *Very Deep Convolutional Networks for Large-Scale Image Recognition* [cite: 953]
 * [cite_start]**Key Learnings:** Understanding how a deep stack of small $3\times3$ convolutional filters can effectively replace larger receptive fields [cite: 956, 1008][cite_start], improving decision function discrimination while reducing parameters[cite: 1021].
-* **Status:** `Completed` / `In Progress`
+* **Status:** `In Progress`
 
 ### 2. U-Net (Segmentation)
 * [cite_start]**Paper:** *U-Net: Convolutional Networks for Biomedical Image Segmentation* [cite: 2]
